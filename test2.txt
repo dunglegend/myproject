@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is master fix lan 1
+=======
+this is develop2 fix lan 1
+>>>>>>> develop2
 
