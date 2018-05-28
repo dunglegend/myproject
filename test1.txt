@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 hdgshjdg
+=======
+this is develop2
+>>>>>>> develop2
 
